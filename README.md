@@ -4,9 +4,10 @@
 **Contact information:**  
 email - joona.virmajoki@gmail.com  
 phone num. - +358 45 182 1668  
-LinkedIn - https://www.linkedin.com/in/joona-virmajoki-8b9ba9161  
 DoB - 29th June 2000  
 City - Helsinki, Finland  
+Github - https://github.com/JoonaV556  
+LinkedIn - https://www.linkedin.com/in/joona-virmajoki-8b9ba9161  
 
 ## Professional Experience  
 ### Software Developer trainee  
@@ -14,7 +15,7 @@ Helsinki XR Center
 Jan 2024 - now  
 Helsinki, Finland 
 
-I work in a small team of developoers, building VR/AR applications and prototypes for customers in the public / private sector using Unity, C#, various SDKs and relevant technologies. Our target devices include standalone XR-headsets such as Meta Quest 2 and Meta Quest 3, which requires us to focus on performance and optimization.
+I work in a small team of developers, building VR/AR applications and prototypes for customers in the public / private sector using Unity, C#, various SDKs and relevant technologies. Our target devices include standalone XR-headsets such as Meta Quest 2 and Meta Quest 3, which requires us to focus on performance and optimization.
 
 ### Student Assistant  
 Metropolia UAS  
@@ -31,11 +32,17 @@ Helsinki, Finland
 I worked in a mass digitization project which focused on digitizing sensitive paper documents archived in the National Archives. My responsibilities included organizing and performing logistical tasks of archived material. I also assisted in quality control of digitized material.
 
 ## Education  
-### XR Design - Metropolia University of Applied Sciences  
+### XR Design  
+Metropolia University of Applied Sciences  
 BA of Design  
 Mar 2021 - now  
 Helsinki, Finland  
 
 I study as a full-time student in a program which focuses on design and development of interactive XR (VR/AR) applications using game engines, programming and various 3D graphics tools.
+
+### Visual Arts School of Helsinki, Upper Secondary School  
+Matriculation examination  
+2016-2019  
+Helsinki, Finland  
 
 
